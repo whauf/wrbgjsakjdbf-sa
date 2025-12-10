@@ -1,0 +1,101 @@
+Rank,Name,Position,Class,Weight,Rating,NIL_Value,Total_Followers,Team,Conference
+1,Arch Manning,QB,JR,220,99.53,5300000,512400,Texas Longhorns,SEC
+2,Jeremiah Smith,WR,SO,215,99.61,4200000,875000,Ohio State Buckeyes,Big Ten
+3,Carson Beck,QB,RS-SR,230,91.28,3100000,167000,Miami Hurricanes,ACC
+4,Bryce Underwood,QB,FR,214,99.87,3000000,313000,Michigan Wolverines,Big Ten
+5,Fernando Mendoza,QB,RS-JR,208,79.83,2600000,18500,Indiana Hoosiers,Big Ten
+6,LaNorris Sellers,QB,JR,217,91.13,2600000,74400,South Carolina Gamecocks,SEC
+7,Julian Sayin,QB,SO,190,98.61,2500000,66600,Ohio State Buckeyes,Big Ten
+8,Diego Pavia,QB,SR,205,81.42,2500000,83838,Vanderbilt Commodores,SEC
+9,Caleb Downs,S,JR,190,99.06,2400000,301000,Ohio State Buckeyes,Big Ten
+10,Ty Simpson,QB,RS-JR,200,97.24,2300000,56800,Alabama Crimson Tide,SEC
+11,Dante Moore,QB,JR,202,99.22,2300000,69400,Oregon Ducks,Big Ten
+12,Dylan Stewart,EDGE,SO,250,98.32,2200000,38700,South Carolina Gamecocks,SEC
+13,Marcel Reed,QB,RS-SO,170,90.07,2100000,90900,Texas A&M Aggies,SEC
+14,Jayden Maiava,QB,RS-JR,227,85.03,2100000,4400,USC Trojans,Big Ten
+15,Taylen Green,QB,RS-SR,215,85.26,2100000,47400,Arkansas Razorbacks,SEC
+16,Josh Hoover,QB,RS-JR,205,86.65,2000000,12979,TCU Horned Frogs,Big 12
+17,Darian Mensah,QB,RS-SO,215,80.91,1900000,29600,Duke Blue Devils,ACC
+18,Brendan Sorsby,QB,RS-JR,205,82.99,1900000,8400,Cincinnati Bearcats,Big 12
+19,Sam Leavitt,QB,RS-SO,195,89.49,1800000,39500,Arizona State Sun Devils,Big 12
+20,Cam Coleman,WR,SO,190,99.22,1800000,65100,Auburn Tigers,SEC
+21,David Stone,DL,SO,285,98.51,1700000,57800,Oklahoma Sooners,SEC
+22,Garrett Nussmeier,QB,RS-SR,182,94.54,1700000,349300,LSU Tigers,SEC
+23,Jordan Seaton,OT,SO,295,98.31,1700000,79930,Colorado Buffaloes,Big 12
+24,Dylan Raiola,QB,SO,230,98.23,1700000,201000,Nebraska Cornhuskers,Big Ten
+25,Jeremiyah Love,RB,JR,185,94.88,1600000,90600,Notre Dame Fighting Irish,Independent
+26,Drew Mestemaker,QB,SO,210,,1600000,7390,North Texas Mean Green,American
+27,John Mateer,QB,RS-JR,215,81.43,1600000,45500,Oklahoma Sooners,SEC
+28,Mason Heintschel,QB,FR,200,87.74,1600000,1799,Pittsburgh Panthers,ACC
+29,Diego Pounds,OT,RS-SR,330,87.95,1600000,24200,Ole Miss Rebels,SEC
+30,Haynes King,QB,RS-SR,200,93.13,1600000,25500,Georgia Tech Yellow Jackets,ACC
+31,Ryan Williams,WR,SO,165,98.97,1600000,1226000,Alabama Crimson Tide,SEC
+32,Carnell Tate,WR,JR,180,96.49,1600000,70800,Ohio State Buckeyes,Big Ten
+33,CJ Bailey,QB,SO,180,89.11,1600000,43500,NC State Wolfpack,ACC
+34,Cade Klubnik,QB,SR,180,97.56,1500000,143000,Clemson Tigers,ACC
+35,Drew Allar,QB,SR,235,97.15,1500000,147600,Penn State Nittany Lions,Big Ten
+36,Kevin Concepcion,WR,JR,170,87.83,1500000,48300,Texas A&M Aggies,SEC
+37,Malik Washington,QB,FR,215,93.98,1500000,12000,Maryland Terrapins,Big Ten
+38,Peter Woods,DL,JR,315,97.65,1400000,36800,Clemson Tigers,ACC
+39,Colin Simmons,EDGE,SO,225,98.36,1400000,191000,Texas Longhorns,SEC
+40,David Bailey,EDGE,SR,220,95.46,1400000,2200,Texas Tech Red Raiders,Big 12
+41,Jaron-Keawe Sagapolutele,QB,FR,220,96.15,1400000,8100,California Golden Bears,ACC
+42,Beau Pribula,QB,RS-JR,203,88.5,1300000,41600,Missouri Tigers,SEC
+43,Gunner Stockton,QB,RS-JR,215,93.11,1300000,41400,Georgia Bulldogs,SEC
+44,Keelon Russell,QB,FR,182,99.62,1300000,60400,Alabama Crimson Tide,SEC
+45,Behren Morton,QB,RS-SR,185,93.25,1300000,33600,Texas Tech Red Raiders,Big 12
+46,Spencer Fano,OT,JR,275,94.86,1200000,9700,Utah Utes,Big 12
+47,Kaytron Allen,RB,SR,222,93.48,1200000,31900,Penn State Nittany Lions,Big Ten
+48,Damon Wilson II,EDGE,JR,230,97.59,1200000,23700,Missouri Tigers,SEC
+49,Rueben Bain,EDGE,JR,249,95.7,1200000,30800,Miami Hurricanes,ACC
+50,Clev Lubin,EDGE,SR,212,,1200000,4800,Louisville Cardinals,ACC
+51,Zachariah Branch,WR,JR,172,99.16,1200000,298300,Georgia Bulldogs,SEC
+52,DJ Lagway,QB,SO,230,99.23,1200000,158800,Florida Gators,SEC
+53,Isaiah World,OT,RS-SR,270,80.92,1200000,1525,Oregon Ducks,Big Ten
+54,CJ Carr,QB,RS-FR,195,95.3,1200000,35200,Notre Dame Fighting Irish,Independent
+55,Carter Smith,OT,RS-JR,270,86.95,1200000,5300,Indiana Hoosiers,Big Ten
+56,Emmanuel Pregnon,IOL,SR,297,,1100000,1545,Oregon Ducks,Big Ten
+57,Julian Lewis,QB,FR,186,95.89,1100000,281000,Colorado Buffaloes,Big 12
+58,Ahmad Hardy,RB,SO,205,,1100000,3805,Missouri Tigers,SEC
+59,Francis Mauigoa,OT,JR,326,98.77,1100000,24500,Miami Hurricanes,ACC
+60,Kayden McDonald,DL,JR,325,90.89,1100000,8700,Ohio State Buckeyes,Big Ten
+61,Conner Weigman,QB,RS-JR,208,97.08,1100000,51500,Houston Cougars,Big 12
+62,Jonah Coleman,RB,SR,205,88.05,1100000,360000,Washington Huskies,Big Ten
+63,Cashius Howell,EDGE,RS-SR,215,79.95,1100000,3700,Texas A&M Aggies,SEC
+64,Anthony Colandrea,QB,JR,180,83.4,1100000,13800,UNLV Rebels,Mountain West
+65,Demond Williams Jr.,QB,SO,180,91.84,1100000,16100,Washington Huskies,Big Ten
+66,Duce Robinson,WR,JR,230,97.48,1100000,19900,USC Trojans,Big Ten
+67,Makai Lemon,WR,JR,182,96.8,1100000,22200,USC Trojans,Big Ten
+68,Cutter Boley,QB,SO,200,89.53,1100000,18334,Kentucky Wildcats,SEC
+69,Jacarrius Peak,OT,RS-JR,310,89.06,1100000,16849,NC State Wolfpack,ACC
+70,Princewill Umanmielen,EDGE,JR,245,91.5,1100000,5200,Ole Miss Rebels,SEC
+71,Sawyer Robertson,QB,RS-SR,200,92.16,1000000,15800,Baylor Bears,Big 12
+72,Jordyn Tyson,WR,RS-JR,170,86.1,1000000,25700,Arizona State Sun Devils,Big 12
+73,Monroe Freeling,OT,JR,284,97.14,1000000,7901,Georgia Bulldogs,SEC
+74,Luke Altmyer,QB,RS-SR,190,91.13,1000000,38872,Illinois Fighting Illini,Big Ten
+75,Anthony Holmes,DL,RS-JR,275,85.53,1000000,6300,Texas Tech Red Raiders,Big 12
+76,Trey Zuhn,OT,RS-SR,300,88.14,1000000,4700,Texas A&M Aggies,SEC
+77,Rocco Becht,QB,RS-JR,194,87.31,985000,26800,Iowa State Cyclones,Big 12
+78,Gracen Halton,DL,SR,262,90.56,982000,14700,Oklahoma Sooners,SEC
+79,Bear Alexander,DL,SR,320,96.33,976000,42400,Oregon Ducks,Big Ten
+80,Noah Fifita,QB,RS-JR,184,87.85,975000,30000,Arizona Wildcats,Big 12
+81,Caden Curry,EDGE,SR,239,93.6,959000,20400,Ohio State Buckeyes,Big Ten
+82,Emmett Johnson,RB,RS-JR,200,84.55,946000,173900,Nebraska Cornhuskers,Big Ten
+83,Luke Petitbon,IOL,RS-SR,285,86.5,944000,3805,Florida State Seminoles,ACC
+84,Ryan Wingo,WR,SO,210,96.7,935000,39800,Texas Longhorns,SEC
+85,Michael Fasusi,OT,FR,299,98.66,933000,14300,Oklahoma Sooners,SEC
+86,Byrum Brown,QB,SR,193,84.05,931000,3100,USF Bulls,American
+87,Kewan Lacy,RB,SO,195,92.2,927000,7000,Ole Miss Rebels,SEC
+88,Tavien St. Clair,QB,FR,225,99.16,927000,28100,Ohio State Buckeyes,Big Ten
+89,Chris Bell,WR,SR,210,82.51,925000,1700,Louisville Cardinals,ACC
+90,Chris Brazzell II,WR,RS-JR,195,84.13,897000,4200,Tennessee Volunteers,SEC
+91,Howard Sampson,OT,RS-JR,330,,897000,11200,Texas Tech Red Raiders,Big 12
+92,David Sanders Jr.,OT,FR,276,98.64,891000,34100,Tennessee Volunteers,SEC
+93,Boo Carter,S,SO,180,94.0,885000,72900,Tennessee Volunteers,SEC
+94,Donovan Hinish,DL,RS-JR,270,87.78,883000,3900,Notre Dame Fighting Irish,Independent
+95,Joey Aguilar,QB,SR,220,83.16,878000,10200,Tennessee Volunteers,SEC
+96,Malachi Toney,WR,FR,190,89.34,878000,136600,Miami Hurricanes,ACC
+97,Isaac Brown,RB,SO,175,88.4,866000,14100,Louisville Cardinals,ACC
+98,Lee Hunter,DL,RS-SR,292,94.33,861000,17400,Texas Tech Red Raiders,Big 12
+99,Dillon Thieneman,S,JR,205,85.72,855000,9100,Oregon Ducks,Big Ten
+100,Jalon Daniels,QB,SR,206,79.82,855000,109000,Kansas Jayhawks,Big 12
